@@ -1,0 +1,6 @@
+streamlit
+torch
+openai-whisper
+gTTS
+langid
+ffmpeg-python
